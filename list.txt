@@ -1,10 +1,11 @@
 # These IPs will only block the licensing part of Adobe apps,
 # and shouldn't interfere with any other network option,
 # such as AI generation, downloads, etc.
-# Last update: 2023-10-14
+# Alternative list using 127.0.0.1 instead of 0.0.0.0
+# can be found at https://adobe.is.dumb.bar/127.txt
 # Unlicensed window? Report at:
 # https://github.com/ignaciocastro/adobe-is-dumb/issues
-
+# Last update: 2023-10-14 16:48 UTC
 0.0.0.0 54.224.241.105
 0.0.0.0 18.207.85.246
 0.0.0.0 35.76.214.141
