@@ -4,9 +4,15 @@
 # 0.0.0.0 can be found in https://adobe.is.dumb.bar/list.txt
 # Unlicensed window? Report at:
 # https://github.com/ignaciocastro/adobe-is-dumb/issues
-# Last update: 2023-10-23 20:51 UTC
+# Last update: 2023-11-21 20:51 UTC
 ic.adobe.io
 cc-api-data.adobe.io
+lcs-cops.adobe.io
+lcs-cops-ue1.adobe.io
+lcs-cops-uw2.adobe.io
+lcs-cops-prestage.adobe.io
+lcs-cops-stage.adobe.io
+lcs-cops-stage-uw2.adobe.io
 dyzt55url8.adobe.io
 b5kbg2ggog.adobe.io
 5zgzzv92gn.adobe.io
@@ -43,4 +49,3 @@ vcorzsld2a.adobe.io
 p0bjuoe16a.adobe.io
 fqaq3pq1o9.adobe.io
 aoorovjtha.adobe.io
-lcs-cops.adobe.io
