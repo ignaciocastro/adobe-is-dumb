@@ -1,9 +1,9 @@
 <div align="center">
-  <a href=https://adobe.is.dumb.bar><img src="https://github.com/ignaciocastro/adobe-is-dumb/blob/assets/header.jpg?raw=true"></a>
+  <a href=https://adobe.isdumb.one><img src="https://github.com/ignaciocastro/adobe-is-dumb/blob/assets/header.jpg?raw=true"></a>
   <sub><sup>click to open</sup></sub>
 
 
-[/127](https://adobe.is.dumb.bar/127 "Alternative using 127.0.0.1 instead of 0.0.0.0") [/cdn](https://adobe.is.dumb.bar/cdn "Served from jsDelivr") [/fastly](https://adobe.is.dumb.bar/fastly "Served from jsDelivr's Fastly mirror (对中国用户有用)") [/pihole](https://adobe.is.dumb.bar/pihole "Optimized for Pi-hole users (No IP before domain)")
+[/127](https://adobe.isdumb.one/127 "Alternative using 127.0.0.1 instead of 0.0.0.0") [/cdn](https://adobe.isdumb.one/cdn "Served from jsDelivr") [/fastly](https://adobe.isdumb.one/fastly "Served from jsDelivr's Fastly mirror (对中国用户有用)") [/pihole](https://adobe.isdumb.one/pihole "Optimized for Pi-hole users (No IP before domain)")
 
 _Latest update: Mon, 23 Oct 2023 20:51:54 UTC_
 
@@ -27,7 +27,7 @@ Quick, easy and painless way of blocking Adobe's licensing servers. Updated cont
 2. Click on Hosts > Manage Update Sources -> Add source
 3. Fill with the following information
     - Name: Adobe is dumb
-    - File name or URL: https://adobe.is.dumb.bar or https://adobe.is.dumb.bar/127
+    - File name or URL: https://adobe.isdumb.one or https://adobe.isdumb.one/127
     - Name of hosts file: Leave blank
     - Import Comments: Enabled
     - Import Possible Hijacks: Use global settings
@@ -61,7 +61,7 @@ Quick, easy and painless way of blocking Adobe's licensing servers. Updated cont
 
 1. Open the Pi-hole dashboard > Adlists
 2. Fill with the following information
-    - Address: https://adobe.is.dumb.bar/pihole
+    - Address: https://adobe.isdumb.one/pihole
     - Comment: Adobe is dumb
 3. Click "Add", then run `pihole -g` or update gravity online.
 </details>
@@ -73,11 +73,11 @@ This can happen with programs that do not support 301 redirects as the source UR
 <details>
     <summary>List of direct URLs (Click to expand)</summary>
 
-- Default: https://adobe.is.dumb.bar/list.txt
-- Alternative (127.0.0.1): https://adobe.is.dumb.bar/127.txt
+- Default: https://adobe.isdumb.one/list.txt
+- Alternative (127.0.0.1): https://adobe.isdumb.one/127.txt
 - CDN: https://cdn.jsdelivr.net/gh/ignaciocastro/adobe-is-dumb@latest/list.txt
 - Fastly: https://fastly.jsdelivr.net/gh/ignaciocastro/adobe-is-dumb@latest/list.txt
-- Pihole: https://adobe.is.dumb.bar/pihole.txt
+- Pihole: https://adobe.isdumb.one/pihole.txt
 </details>
 
 ### It was working fine and now I'm getting an "Unlicensed program" window! / I'm still getting the "Unlicensed program" window / I have a new subdomain to submit

@@ -2,7 +2,7 @@
 # and shouldn't interfere with any other network option,
 # such as AI generation, downloads, etc.
 # Alternative list using 127.0.0.1 instead of 0.0.0.0
-# can be found at https://adobe.is.dumb.bar/127.txt
+# can be found at https://adobe.isdumb.one/127.txt
 # Unlicensed window? Report at:
 # https://github.com/ignaciocastro/adobe-is-dumb/issues
 # Last update: 2023-11-21 20:51 UTC
