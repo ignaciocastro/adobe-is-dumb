@@ -6,6 +6,7 @@
 # Unlicensed window? Report at:
 # https://github.com/ignaciocastro/adobe-is-dumb/issues
 # Last update: 2023-11-21 20:51 UTC
+
 0.0.0.0 ic.adobe.io
 0.0.0.0 cc-api-data.adobe.io
 0.0.0.0 lcs-cops.adobe.io
@@ -14,6 +15,7 @@
 0.0.0.0 lcs-cops-prestage.adobe.io
 0.0.0.0 lcs-cops-stage.adobe.io
 0.0.0.0 lcs-cops-stage-uw2.adobe.io
+
 0.0.0.0 dyzt55url8.adobe.io
 0.0.0.0 b5kbg2ggog.adobe.io
 0.0.0.0 5zgzzv92gn.adobe.io
@@ -50,3 +52,43 @@
 0.0.0.0 p0bjuoe16a.adobe.io
 0.0.0.0 fqaq3pq1o9.adobe.io
 0.0.0.0 aoorovjtha.adobe.io
+
+0.0.0.0 pv256ds6c99.prod.cloud.adobe.io
+0.0.0.0 cv2l4573ukh.prod.cloud.adobe.io
+0.0.0.0 pv24v41zibm.prod.cloud.adobe.io
+0.0.0.0 iv2nn9r0j2r.prod.cloud.adobe.io
+0.0.0.0 iv2yt8sqmh0.prod.cloud.adobe.io
+0.0.0.0 iv218qmzox6.prod.cloud.adobe.io
+0.0.0.0 cv218qmzox6.prod.cloud.adobe.io
+0.0.0.0 cv2b0yc07ls.prod.cloud.adobe.io
+0.0.0.0 cv2nn9r0j2r.prod.cloud.adobe.io
+0.0.0.0 pv2yt8sqmh0.prod.cloud.adobe.io
+0.0.0.0 iv256ds6c99.prod.cloud.adobe.io
+0.0.0.0 pv2zp87w2eo.prod.cloud.adobe.io
+0.0.0.0 iv2ys4tjt9x.prod.cloud.adobe.io
+0.0.0.0 cv2ska86hnt.prod.cloud.adobe.io
+0.0.0.0 iv24b15c1z0.prod.cloud.adobe.io
+0.0.0.0 cv256ds6c99.prod.cloud.adobe.io
+0.0.0.0 pv2ska86hnt.prod.cloud.adobe.io
+0.0.0.0 iv2b0yc07ls.prod.cloud.adobe.io
+0.0.0.0 iv2l4573ukh.prod.cloud.adobe.io
+0.0.0.0 cv24v41zibm.prod.cloud.adobe.io
+0.0.0.0 iv2ska86hnt.prod.cloud.adobe.io
+0.0.0.0 pv2l4573ukh.prod.cloud.adobe.io
+0.0.0.0 iv24v41zibm.prod.cloud.adobe.io
+0.0.0.0 iv2zp87w2eo.prod.cloud.adobe.io
+0.0.0.0 pv2ys4tjt9x.prod.cloud.adobe.io
+0.0.0.0 cv2ys4tjt9x.prod.cloud.adobe.io
+0.0.0.0 cv2fcqvzl1r.prod.cloud.adobe.io
+0.0.0.0 pv2fcqvzl1r.prod.cloud.adobe.io
+0.0.0.0 cv24b15c1z0.prod.cloud.adobe.io
+0.0.0.0 pv24b15c1z0.prod.cloud.adobe.io
+0.0.0.0 cv2bqhsp36w.prod.cloud.adobe.io
+0.0.0.0 pv2b0yc07ls.prod.cloud.adobe.io
+0.0.0.0 pv218qmzox6.prod.cloud.adobe.io
+0.0.0.0 cv2yt8sqmh0.prod.cloud.adobe.io
+0.0.0.0 iv2fcqvzl1r.prod.cloud.adobe.io
+0.0.0.0 pv2bqhsp36w.prod.cloud.adobe.io
+0.0.0.0 pv2nn9r0j2r.prod.cloud.adobe.io
+0.0.0.0 cv2zp87w2eo.prod.cloud.adobe.io
+0.0.0.0 iv2bqhsp36w.prod.cloud.adobe.io

@@ -5,7 +5,10 @@
 
 [/127](https://adobe.isdumb.one/127 "Alternative using 127.0.0.1 instead of 0.0.0.0") [/cdn](https://adobe.isdumb.one/cdn "Served from jsDelivr") [/fastly](https://adobe.isdumb.one/fastly "Served from jsDelivr's Fastly mirror (对中国用户有用)") [/pihole](https://adobe.isdumb.one/pihole "Optimized for Pi-hole users (No IP before domain)")
 
-_Latest update: Tue, 21 Nov 2023 20:51:54 UTC_
+_Latest update: Sun, 07 Jan 2024 13:44:01 UTC_
+
+<sub>_NEW: Adobe is moving to *.prod.cloud.adobe.io. Let's move with them!_</sub>
+
 
 Quick, easy and painless way of blocking Adobe's licensing servers. Updated continuously, without blocking other network-required features.</div>
 
@@ -67,6 +70,11 @@ Quick, easy and painless way of blocking Adobe's licensing servers. Updated cont
 </details>
 
 ## Troubleshooting
+### It's been X hours/days/weeks/months since this last updated! Is this list deprecated / abandoned?
+Not at all. This list is usually weeks ahead of Adobe's domain switches, so it doesn't need to continuously update. The only times you'll see a recent push would be:
+- If they add more domains and I can add them as preventive updates
+- If they make a switch between domain formats (Moving from _*.adobe.io_ to _*.prod.cloud.adobe.io_, for example.)
+
 ### My prefered program is not letting me use the list!
 This can happen with programs that do not support 301 redirects as the source URL. You can use the following direct URLs instead:
 
@@ -80,7 +88,7 @@ This can happen with programs that do not support 301 redirects as the source UR
 - Pihole: https://adobe.isdumb.one/pihole.txt
 </details>
 
-### It was working fine and now I'm getting an "Unlicensed program" window! / I'm still getting the "Unlicensed program" window / I have a new subdomain to submit
+### It was working fine and now I'm getting / I'm still getting the "Unlicensed program" window / I have a new subdomain to submit
 Adobe tends to update their license subdomain every two weeks. Feel free to open [an issue](https://github.com/ignaciocastro/adobe-is-dumb/issues/new) if you already tried updating the list and nothing happened. It'd be appreciated if you could use Fiddler / Charles Proxy when opening the program, sort by _"/integritychecker/machineevents/v1"_ and include the subdomain it was requested from.
 
 ### I'm in a country where Github / Cloudflare is slow or blocked / 我所在的国家Github/Cloudflare速度慢或被屏蔽
