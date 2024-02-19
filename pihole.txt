@@ -4,16 +4,18 @@
 # 0.0.0.0 can be found in https://adobe.isdumb.one/list.txt
 # Unlicensed window? Report at:
 # https://github.com/ignaciocastro/adobe-is-dumb/issues
-# Last update: 2023-11-21 20:51 UTC
+# Last update: 2024-02-19 20:51 UTC
 
 ic.adobe.io
 cc-api-data.adobe.io
-lcs-cops.adobe.io
-lcs-cops-ue1.adobe.io
-lcs-cops-uw2.adobe.io
-lcs-cops-prestage.adobe.io
-lcs-cops-stage.adobe.io
-lcs-cops-stage-uw2.adobe.io
+# These are commented due to the probability of getting removed in the next update
+# (No detection and stops Lightroom from working correctly)
+# lcs-cops.adobe.io
+# lcs-cops-ue1.adobe.io
+# lcs-cops-uw2.adobe.io
+# lcs-cops-prestage.adobe.io
+# lcs-cops-stage.adobe.io
+# lcs-cops-stage-uw2.adobe.io
 
 dyzt55url8.adobe.io
 b5kbg2ggog.adobe.io
