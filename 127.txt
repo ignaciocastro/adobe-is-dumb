@@ -4,18 +4,10 @@
 # 0.0.0.0 can be found in https://adobe.isdumb.one/list.txt
 # Unlicensed window? Report at:
 # https://github.com/ignaciocastro/adobe-is-dumb/issues
-# Last update: 2024-02-19 20:51 UTC
+# Last update: 2024-02-24 14:00 UTC
 
 127.0.0.1 ic.adobe.io
 127.0.0.1 cc-api-data.adobe.io
-# These are commented due to the probability of getting removed in the next update
-# (No detection and stops Lightroom from working correctly)
-# 127.0.0.1 lcs-cops.adobe.io
-# 127.0.0.1 lcs-cops-ue1.adobe.io
-# 127.0.0.1 lcs-cops-uw2.adobe.io
-# 127.0.0.1 lcs-cops-prestage.adobe.io
-# 127.0.0.1 lcs-cops-stage.adobe.io
-# 127.0.0.1 lcs-cops-stage-uw2.adobe.io
 
 127.0.0.1 dyzt55url8.adobe.io
 127.0.0.1 b5kbg2ggog.adobe.io
@@ -93,3 +85,35 @@
 127.0.0.1 pv2nn9r0j2r.prod.cloud.adobe.io
 127.0.0.1 cv2zp87w2eo.prod.cloud.adobe.io
 127.0.0.1 iv2bqhsp36w.prod.cloud.adobe.io
+
+127.0.0.1 yj8yx3y8zo.adobestats.io
+127.0.0.1 mpsige2va9.adobestats.io
+127.0.0.1 ujqx8lhpz4.adobestats.io
+127.0.0.1 y2r8jzsv4p.adobestats.io
+127.0.0.1 eq7dbze88m.adobestats.io
+127.0.0.1 q9hjwppxeq.adobestats.io
+127.0.0.1 skg7pqn0al.adobestats.io
+127.0.0.1 9iay914wzy.adobestats.io
+127.0.0.1 yuzuoqo0il.adobestats.io
+127.0.0.1 2o3c6rbyfr.adobestats.io
+127.0.0.1 vicsj37lhf.adobestats.io
+127.0.0.1 nhc73ypmli.adobestats.io
+127.0.0.1 oxiz2n3i4v.adobestats.io
+127.0.0.1 2qjz50z5lf.adobestats.io
+127.0.0.1 i2x2ius9o5.adobestats.io
+127.0.0.1 lnwbupw1s7.adobestats.io
+127.0.0.1 n746qg9j4i.adobestats.io
+127.0.0.1 2621x1nzeq.adobestats.io
+127.0.0.1 r9r6oomgms.adobestats.io
+127.0.0.1 99pfl4vazm.adobestats.io
+127.0.0.1 zekdqanici.adobestats.io
+127.0.0.1 g9cli80sqp.adobestats.io
+127.0.0.1 dyv9axahup.adobestats.io
+127.0.0.1 17ov1u3gio.adobestats.io
+127.0.0.1 7l4xxjhvkt.adobestats.io
+127.0.0.1 wcxqmuxd4z.adobestats.io
+127.0.0.1 l558s6jwzy.adobestats.io
+127.0.0.1 85n85uoa1h.adobestats.io
+127.0.0.1 zrao5tdh1t.adobestats.io
+127.0.0.1 eftcpaiu36.adobestats.io
+127.0.0.1 2qj10f8rdg.adobestats.io

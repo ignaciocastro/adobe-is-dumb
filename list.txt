@@ -5,18 +5,10 @@
 # can be found at https://adobe.isdumb.one/127.txt
 # Unlicensed window? Report at:
 # https://github.com/ignaciocastro/adobe-is-dumb/issues
-# Last update: 2024-02-19 20:51 UTC
+# Last update: 2024-02-24 14:00 UTC
 
 0.0.0.0 ic.adobe.io
 0.0.0.0 cc-api-data.adobe.io
-# These are commented due to the probability of getting removed in the next update
-# (No detection and stops Lightroom from working correctly)
-# 0.0.0.0 lcs-cops.adobe.io
-# 0.0.0.0 lcs-cops-ue1.adobe.io
-# 0.0.0.0 lcs-cops-uw2.adobe.io
-# 0.0.0.0 lcs-cops-prestage.adobe.io
-# 0.0.0.0 lcs-cops-stage.adobe.io
-# 0.0.0.0 lcs-cops-stage-uw2.adobe.io
 
 0.0.0.0 dyzt55url8.adobe.io
 0.0.0.0 b5kbg2ggog.adobe.io
@@ -94,3 +86,35 @@
 0.0.0.0 pv2nn9r0j2r.prod.cloud.adobe.io
 0.0.0.0 cv2zp87w2eo.prod.cloud.adobe.io
 0.0.0.0 iv2bqhsp36w.prod.cloud.adobe.io
+
+0.0.0.0 yj8yx3y8zo.adobestats.io
+0.0.0.0 mpsige2va9.adobestats.io
+0.0.0.0 ujqx8lhpz4.adobestats.io
+0.0.0.0 y2r8jzsv4p.adobestats.io
+0.0.0.0 eq7dbze88m.adobestats.io
+0.0.0.0 q9hjwppxeq.adobestats.io
+0.0.0.0 skg7pqn0al.adobestats.io
+0.0.0.0 9iay914wzy.adobestats.io
+0.0.0.0 yuzuoqo0il.adobestats.io
+0.0.0.0 2o3c6rbyfr.adobestats.io
+0.0.0.0 vicsj37lhf.adobestats.io
+0.0.0.0 nhc73ypmli.adobestats.io
+0.0.0.0 oxiz2n3i4v.adobestats.io
+0.0.0.0 2qjz50z5lf.adobestats.io
+0.0.0.0 i2x2ius9o5.adobestats.io
+0.0.0.0 lnwbupw1s7.adobestats.io
+0.0.0.0 n746qg9j4i.adobestats.io
+0.0.0.0 2621x1nzeq.adobestats.io
+0.0.0.0 r9r6oomgms.adobestats.io
+0.0.0.0 99pfl4vazm.adobestats.io
+0.0.0.0 zekdqanici.adobestats.io
+0.0.0.0 g9cli80sqp.adobestats.io
+0.0.0.0 dyv9axahup.adobestats.io
+0.0.0.0 17ov1u3gio.adobestats.io
+0.0.0.0 7l4xxjhvkt.adobestats.io
+0.0.0.0 wcxqmuxd4z.adobestats.io
+0.0.0.0 l558s6jwzy.adobestats.io
+0.0.0.0 85n85uoa1h.adobestats.io
+0.0.0.0 zrao5tdh1t.adobestats.io
+0.0.0.0 eftcpaiu36.adobestats.io
+0.0.0.0 2qj10f8rdg.adobestats.io

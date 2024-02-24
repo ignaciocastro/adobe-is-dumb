@@ -5,9 +5,9 @@
 
 [/127](https://adobe.isdumb.one/127 "Alternative using 127.0.0.1 instead of 0.0.0.0") [/cdn](https://adobe.isdumb.one/cdn "Served from jsDelivr") [/fastly](https://adobe.isdumb.one/fastly "Served from jsDelivr's Fastly mirror (对中国用户有用)") [/pihole](https://adobe.isdumb.one/pihole "Optimized for Pi-hole users (No IP before domain)")
 
-_Latest update: Mon, 19 Feb 2024 22:42:04 UTC_
+_Latest update: Sat, 24 Feb 2024 13:34:57 UTC_
 
-<sub>_NEW: Removed lcs-cops due to incompatibility with Lightroom features_</sub>
+<sub>_NEW: Added new adobestats.io subdomains_</sub>
 
 
 Quick, easy and painless way of blocking Adobe's licensing servers. Updated continuously, without blocking other network-required features.</div>
