@@ -125,3 +125,4 @@
 0.0.0.0 50sxgwgngu.adobestats.io
 0.0.0.0 u31z50xvp9.adobestats.io
 0.0.0.0 2dhh9vsp39.adobestats.io
+0.0.0.0 rb0u8l34kr.adobestats.io

@@ -124,3 +124,4 @@
 127.0.0.1 50sxgwgngu.adobestats.io
 127.0.0.1 u31z50xvp9.adobestats.io
 127.0.0.1 2dhh9vsp39.adobestats.io
+127.0.0.1 rb0u8l34kr.adobestats.io
