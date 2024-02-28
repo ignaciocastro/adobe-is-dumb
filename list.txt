@@ -123,3 +123,4 @@
 0.0.0.0 6j0onv1tde.adobestats.io
 0.0.0.0 pljm140ld1.adobestats.io
 0.0.0.0 50sxgwgngu.adobestats.io
+0.0.0.0 u31z50xvp9.adobestats.io
