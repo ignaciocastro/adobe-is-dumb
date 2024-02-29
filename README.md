@@ -101,7 +101,7 @@ jsDelivr URL should redirect you to a suitable mirror according to your latency 
 - Fastly镜像: [违约](https://fastly.jsdelivr.net/gh/ignaciocastro/adobe-is-dumb@latest/list.txt) | [备选方案（127.0.0.1)](https://fastly.jsdelivr.net/gh/ignaciocastro/adobe-is-dumb@latest/127.txt) | [Pi-hole](https://fastly.jsdelivr.net/gh/ignaciocastro/adobe-is-dumb@latest/pihole.txt)
 - Gcore镜像: [违约](https://gcore.jsdelivr.net/gh/ignaciocastro/adobe-is-dumb@latest/list.txt) | [备选方案（127.0.0.1)](https://gcore.jsdelivr.net/gh/ignaciocastro/adobe-is-dumb@latest/127.txt) | [Pi-hole](https://gcore.jsdelivr.net/gh/ignaciocastro/adobe-is-dumb@latest/pihole.txt)
 - Quantil镜像: [违约](https://quantil.jsdelivr.net/gh/ignaciocastro/adobe-is-dumb@latest/list.txt) | [备选方案（127.0.0.1)](https://quantil.jsdelivr.net/gh/ignaciocastro/adobe-is-dumb@latest/127.txt) | [Pi-hole](https://quantil.jsdelivr.net/gh/ignaciocastro/adobe-is-dumb@latest/pihole.txt)
-- Ghproxy: [违约](https://ghproxy.com/https://raw.githubusercontent.com/ignaciocastro/adobe-is-dumb/main/list.txt) | [备选方案（127.0.0.1)](https://ghproxy.com/https://raw.githubusercontent.com/ignaciocastro/adobe-is-dumb/main/127.txt) | [Pi-hole](https://ghproxy.com/https://raw.githubusercontent.com/ignaciocastro/adobe-is-dumb/main/pihole.txt)
+- Ghproxy: [违约](https://gh-proxy.com/https://raw.githubusercontent.com/ignaciocastro/adobe-is-dumb/main/list.txt) | [备选方案（127.0.0.1)](https://gh-proxy.com/https://raw.githubusercontent.com/ignaciocastro/adobe-is-dumb/main/127.txt) | [Pi-hole](https://gh-proxy.com/https://raw.githubusercontent.com/ignaciocastro/adobe-is-dumb/main/pihole.txt)
 </details>
 
 ## Acknowledgements
