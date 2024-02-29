@@ -5,7 +5,7 @@
 
 [/127](https://adobe.isdumb.one/127 "Alternative using 127.0.0.1 instead of 0.0.0.0") [/cdn](https://adobe.isdumb.one/cdn "Served from jsDelivr") [/fastly](https://adobe.isdumb.one/fastly "Served from jsDelivr's Fastly mirror (对中国用户有用)") [/pihole](https://adobe.isdumb.one/pihole "Optimized for Pi-hole users (No IP before domain)")
 
-_Latest update: Thu, 29 Feb 2024 14:15:11 UTC_
+_Latest update: Thu, 29 Feb 2024 14:15:21 UTC_
 
 <sub>_NEW: Added new adobestats.io subdomains_</sub>
 
