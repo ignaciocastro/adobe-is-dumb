@@ -133,3 +133,4 @@
 127.0.0.1 0bj2epfqn1.adobestats.io
 127.0.0.1 ura7zj55r9.adobestats.io
 127.0.0.1 xesnl0ss94.adobestats.io
+127.0.0.1 xbd20b9wqa.adobestats.io
