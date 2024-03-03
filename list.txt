@@ -146,3 +146,4 @@
 0.0.0.0 31q40256l4.adobestats.io
 0.0.0.0 bs2yhuojzm.adobestats.io
 0.0.0.0 p50zgina3e.adobestats.io
+0.0.0.0 yri0bsu0ak.adobestats.io
