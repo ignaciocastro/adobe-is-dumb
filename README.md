@@ -107,4 +107,4 @@ jsDelivr URL should redirect you to a suitable mirror according to your latency 
 ## Acknowledgements
  - [eaaasun's CCStopper](https://github.com/eaaasun/CCStopper/)
 ##
- <div align="center"><img src="https://github.com/ignaciocastro/adobe-is-dumb/blob/assets/adobe.gif?raw=true"></div>
+ <div align="center"><img src="https://github.com/ignaciocastro/adobe-is-dumb/blob/assets/adobe.png?raw=true"></div>
