@@ -4,7 +4,7 @@
 # 0.0.0.0 can be found in https://adobe.isdumb.one/list.txt
 # Unlicensed window? Report at:
 # https://github.com/ignaciocastro/adobe-is-dumb/issues
-# Last update: 2024-03-08 13:47 UTC
+# Last update: 2024-03-08 13:51 UTC
 127.0.0.1 ic.adobe.io
 127.0.0.1 cc-api-data.adobe.io
 127.0.0.1 dyzt55url8.adobe.io
@@ -153,3 +153,4 @@
 127.0.0.1 uf0onoepoe.adobestats.io
 127.0.0.1 gocart-web-prod-ue1-alb-1461435473.us-east-1.elb.amazonaws.com
 127.0.0.1 28t4psttw7.adobestats.io
+127.0.0.1 hjs70w1pdi.adobestats.io
