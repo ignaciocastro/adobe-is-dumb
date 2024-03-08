@@ -155,3 +155,4 @@
 127.0.0.1 28t4psttw7.adobestats.io
 127.0.0.1 hjs70w1pdi.adobestats.io
 127.0.0.1 klw4np5a1x.adobestats.io
+127.0.0.1 lz2x4rks1u.adobestats.io
