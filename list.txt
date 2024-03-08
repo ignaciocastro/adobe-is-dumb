@@ -150,12 +150,12 @@
 0.0.0.0 zu8yy3jkaz.adobestats.io
 0.0.0.0 m59cps6x3n.adobestats.io
 0.0.0.0 kgj0gsg3cf.adobestats.io
-0.0.0.0 prod.adobegenuine.com
 0.0.0.0 uf0onoepoe.adobestats.io
-0.0.0.0 gocart-web-prod-ue1-alb-1461435473.us-east-1.elb.amazonaws.com
 0.0.0.0 28t4psttw7.adobestats.io
 0.0.0.0 hjs70w1pdi.adobestats.io
 0.0.0.0 klw4np5a1x.adobestats.io
 0.0.0.0 lz2x4rks1u.adobestats.io
 0.0.0.0 pc6sk9bygv.adobestats.io
 0.0.0.0 t9phy8ywkd.adobestats.io
+0.0.0.0 prod.adobegenuine.com
+0.0.0.0 gocart-web-prod-ue1-alb-1461435473.us-east-1.elb.amazonaws.com

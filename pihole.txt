@@ -149,12 +149,12 @@ yri0bsu0ak.adobestats.io
 zu8yy3jkaz.adobestats.io
 m59cps6x3n.adobestats.io
 kgj0gsg3cf.adobestats.io
-prod.adobegenuine.com
 uf0onoepoe.adobestats.io
-gocart-web-prod-ue1-alb-1461435473.us-east-1.elb.amazonaws.com
 28t4psttw7.adobestats.io
 hjs70w1pdi.adobestats.io
 klw4np5a1x.adobestats.io
 lz2x4rks1u.adobestats.io
 pc6sk9bygv.adobestats.io
 t9phy8ywkd.adobestats.io
+prod.adobegenuine.com
+gocart-web-prod-ue1-alb-1461435473.us-east-1.elb.amazonaws.com

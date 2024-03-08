@@ -7,7 +7,7 @@
 
 _Latest update: Fri, 08 Mar 2024 13:52:45 UTC_
 
-<sub>_NEW: Added new adobestats.io subdomains_</sub>
+<sub>_NEW: General cleanup, added adobegenuine domains._</sub>
 
 
 Quick, easy and painless way of blocking Adobe's licensing servers. Updated continuously, without blocking other network-required features.</div>
