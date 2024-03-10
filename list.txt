@@ -168,3 +168,4 @@
 0.0.0.0 nh8wam2qd9.adobestats.io
 0.0.0.0 rm3xrk61n1.adobestats.io
 0.0.0.0 rmnia8d0tr.adobestats.io
+0.0.0.0 vrz9w7o7yv.adobestats.io
