@@ -5,7 +5,7 @@
 # can be found at https://adobe.isdumb.one/127.txt
 # Unlicensed window? Report at:
 # https://github.com/ignaciocastro/adobe-is-dumb/issues
-# Last update: 2024-03-10 21:20 UTC
+# Last update: 2024-03-10 21:21 UTC
 0.0.0.0 ic.adobe.io
 0.0.0.0 cc-api-data.adobe.io
 0.0.0.0 prod.adobegenuine.com
@@ -167,3 +167,4 @@
 0.0.0.0 kwi5n2ruax.adobestats.io
 0.0.0.0 nh8wam2qd9.adobestats.io
 0.0.0.0 rm3xrk61n1.adobestats.io
+0.0.0.0 rmnia8d0tr.adobestats.io
