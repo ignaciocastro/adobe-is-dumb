@@ -7,6 +7,8 @@
 # Last update: 2024-03-08 13:52 UTC
 ic.adobe.io
 cc-api-data.adobe.io
+prod.adobegenuine.com
+gocart-web-prod-ue1-alb-1461435473.us-east-1.elb.amazonaws.com
 dyzt55url8.adobe.io
 b5kbg2ggog.adobe.io
 5zgzzv92gn.adobe.io
@@ -156,5 +158,4 @@ klw4np5a1x.adobestats.io
 lz2x4rks1u.adobestats.io
 pc6sk9bygv.adobestats.io
 t9phy8ywkd.adobestats.io
-prod.adobegenuine.com
-gocart-web-prod-ue1-alb-1461435473.us-east-1.elb.amazonaws.com
+dfnm3epsb7.adobestats.io

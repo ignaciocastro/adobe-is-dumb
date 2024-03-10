@@ -7,6 +7,8 @@
 # Last update: 2024-03-08 13:52 UTC
 127.0.0.1 ic.adobe.io
 127.0.0.1 cc-api-data.adobe.io
+127.0.0.1 prod.adobegenuine.com
+127.0.0.1 gocart-web-prod-ue1-alb-1461435473.us-east-1.elb.amazonaws.com
 127.0.0.1 dyzt55url8.adobe.io
 127.0.0.1 b5kbg2ggog.adobe.io
 127.0.0.1 5zgzzv92gn.adobe.io
@@ -156,5 +158,4 @@
 127.0.0.1 lz2x4rks1u.adobestats.io
 127.0.0.1 pc6sk9bygv.adobestats.io
 127.0.0.1 t9phy8ywkd.adobestats.io
-127.0.0.1 prod.adobegenuine.com
-127.0.0.1 gocart-web-prod-ue1-alb-1461435473.us-east-1.elb.amazonaws.com
+127.0.0.1 dfnm3epsb7.adobestats.io
