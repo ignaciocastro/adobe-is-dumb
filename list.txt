@@ -176,3 +176,4 @@
 0.0.0.0 jmx50quqz0.adobestats.io
 0.0.0.0 jsxfc5yij1.adobestats.io
 0.0.0.0 vfsjlgw02v.adobestats.io
+0.0.0.0 yshuhythub.adobestats.io
