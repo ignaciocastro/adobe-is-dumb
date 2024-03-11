@@ -174,3 +174,4 @@
 127.0.0.1 je5ufnklzs.adobestats.io
 127.0.0.1 jmx50quqz0.adobestats.io
 127.0.0.1 jsxfc5yij1.adobestats.io
+127.0.0.1 vfsjlgw02v.adobestats.io
