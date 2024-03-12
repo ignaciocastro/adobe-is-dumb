@@ -180,3 +180,4 @@
 0.0.0.0 zrbzvc9mel.adobestats.io
 0.0.0.0 rj669kv2lc.adobestats.io
 0.0.0.0 agxqobl83f.adobestats.io
+0.0.0.0 zr60t8ia88.adobestats.io
