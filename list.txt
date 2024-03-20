@@ -188,3 +188,6 @@
 0.0.0.0 d101mw99xq.adobestats.io
 0.0.0.0 oh41yzugiz.adobestats.io
 0.0.0.0 7k1t5im229.adobestats.io
+# Adobe started utilizing Akami MPulse
+0.0.0.0 pheaj7qx2znbczp2x5rq-port65-de02e93c9-clientnsv4-s.akamaihd.net
+0.0.0.0 684d0d42.akstat.io
