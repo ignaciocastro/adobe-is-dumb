@@ -7,7 +7,7 @@
 
 _Latest update: Wen, 20 Mar 2024 10:46:53 UTC_
 
-<sub>_NEW: General cleanup, added adobegenuine domains._</sub>
+<sub>_NEW: Another Adobe domain and 2 Akami domains, strange?_</sub>
 
 
 Quick, easy and painless way of blocking Adobe's licensing servers. Updated continuously, without blocking other network-required features.</div>
