@@ -1,5 +1,6 @@
 <div align="center">
   <a href=https://adobe.isdumb.one><img src="https://github.com/ignaciocastro/adobe-is-dumb/blob/assets/header.jpg?raw=true"></a>
+  
   <sub><sup>click to open</sup></sub>
 
 
@@ -111,6 +112,9 @@ They are not necessary, but always appreciated! Your contribution will help me p
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F2F2PQN55)
 [![liberapay](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/ignaseeo/)
+
+[![githubsponsor](https://github.com/ignaciocastro/adobe-is-dumb/blob/assets/githubsponsor.svg?raw=true)](https://github.com/sponsors/ignaciocastro)
+
 </center>
 
 ##
