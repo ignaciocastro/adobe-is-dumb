@@ -5,7 +5,7 @@
 
 [/127](https://adobe.isdumb.one/127 "Alternative using 127.0.0.1 instead of 0.0.0.0") [/cdn](https://adobe.isdumb.one/cdn "Served from jsDelivr") [/fastly](https://adobe.isdumb.one/fastly "Served from jsDelivr's Fastly mirror (对中国用户有用)") [/pihole](https://adobe.isdumb.one/pihole "Optimized for Pi-hole users (No IP before domain)")
 
-_Latest update: Fri, 22 Mar 2024 04:38:04 UTC_
+_Latest update: Sat, 23 Mar 2024 02:16:38 UTC_
 
 <sub>_NEW: General cleanup, added adobegenuine domains._</sub>
 
@@ -104,7 +104,14 @@ jsDelivr URL should redirect you to a suitable mirror according to your latency 
 - Ghproxy: [违约](https://gh-proxy.com/https://raw.githubusercontent.com/ignaciocastro/adobe-is-dumb/main/list.txt) | [备选方案（127.0.0.1)](https://gh-proxy.com/https://raw.githubusercontent.com/ignaciocastro/adobe-is-dumb/main/127.txt) | [Pi-hole](https://gh-proxy.com/https://raw.githubusercontent.com/ignaciocastro/adobe-is-dumb/main/pihole.txt)
 </details>
 
-## Acknowledgements
- - [eaaasun's CCStopper](https://github.com/eaaasun/CCStopper/)
+### Donations
+They are not necessary, but always appreciated! Your contribution will help me pay for the API services I use to continuously find subdomains, plus the yearly domain price.
+
+<div align="center">
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F2F2PQN55)
+[![liberapay](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/ignaseeo/)
+</center>
+
 ##
  <div align="center"><img src="https://github.com/ignaciocastro/adobe-is-dumb/blob/assets/adobe.png?raw=true"></div>
