@@ -1,3 +1,4 @@
+# Please switch your domains to a.dove.isdumb.one. Old domain will be retired. Read more [here](https://github.com/ignaciocastro/adobe-is-dumb/issues/13)
 <div align="center">
   <a href=https://a.dove.isdumb.one><img src="https://github.com/ignaciocastro/adobe-is-dumb/blob/assets/header.jpg?raw=true"></a>
   
@@ -8,7 +9,7 @@
 
 _Latest update: Sat, 23 Mar 2024 02:16:38 UTC_
 
-<sub>_NEW: General cleanup, added adobegenuine domains._</sub>
+<sub>_NEW: Please switch your domains to a.dove.isdumb.one. Old domain will be retired. Read more [here](https://github.com/ignaciocastro/adobe-is-dumb/issues/13)._</sub>
 
 
 Quick, easy and painless way of blocking Adobe's licensing servers. Updated continuously, without blocking other network-required features.</div>
